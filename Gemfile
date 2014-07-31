@@ -16,3 +16,5 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 gem 'foundation-rails', :require => false
 
 gem 'middleman-deploy'
+
+gem "middleman-blog"

@@ -89,3 +89,7 @@ activate :deploy do |deploy|
 
   deploy.build_before =true
 end
+
+activate :blog do |blog|
+  blog.sources 
+end

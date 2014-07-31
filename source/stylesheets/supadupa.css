@@ -1,0 +1,79 @@
+/*= require foundation */
+
+
+.headerbar{
+  height: 150px;
+  width: 100%;
+  background: #003b56;
+  opacity: .9;
+}
+
+#blackjack{
+    font-size: 20px;
+}
+
+.project-body{
+    font-size: 20px;
+}
+
+#index-welcome{
+    font-size: 20px;
+}
+
+.hi-welcome{
+    font-size: 22px;
+    font-weight: bold;
+}
+#some-things{
+    font-size: 22px;
+}
+
+.eb-header{
+    position: relative;
+    left: 400px;
+}
+
+.project-header{
+    position: relative;
+    left: 275px;
+}
+
+div.main{
+  margin: 100px;
+}
+
+.button{
+  background-color: #4f4f4f;
+}
+.small-block-grid-3{
+  float: right;
+}
+
+
+
+.panel{
+  top: 300px;
+  width: 700px;
+  margin: 100px;
+  text-align: center;
+  padding: 50px;
+}
+
+.blog-header{
+    position: relative;
+    left: 350px;
+}
+
+h1{
+  width: 300px;
+  color: white;
+  font-size: 100px;
+}
+#button-group{
+    float: right;
+}
+
+/*div.header{
+  position: relative;
+  bottom: 260px;
+}*/
