@@ -6664,16 +6664,46 @@ th.hide-for-touch {
   th.show-for-print {
     display: table-cell !important; } }
 
+
+
 .headerbar{
-  position: absolute;
   height: 150px;
   width: 100%;
-  background: #098fdd;
+  background: #003b56;
+  opacity: .9;
+}
 
+#blackjack{
+    font-size: 20px;
+}
+
+.project-body{
+    font-size: 20px;
+}
+
+#index-welcome{
+    font-size: 20px;
+}
+
+.hi-welcome{
+    font-size: 22px;
+    font-weight: bold;
+}
+#some-things{
+    font-size: 22px;
+}
+
+.eb-header{
+    position: relative;
+    left: 400px;
+}
+
+.project-header{
+    position: relative;
+    left: 275px;
 }
 
 div.main{
-  position: relative;
   margin: 100px;
 }
 
@@ -6681,25 +6711,32 @@ div.main{
   background-color: #4f4f4f;
 }
 .small-block-grid-3{
-  position: relative;
   float: right;
 }
 
-.panel{
-  position:relative;
-  left: 500px;
 
+
+.panel{
   top: 300px;
-  width: 500px;
+  width: 700px;
+  margin: 100px;
+  text-align: center;
+  padding: 50px;
 }
 
+.blog-header{
+    position: relative;
+    left: 350px;
+}
 
 h1{
-  text-align: center;
+  width: 300px;
   color: white;
   font-size: 100px;
 }
-
+#button-group{
+    float: right;
+}
 
 /*div.header{
   position: relative;
