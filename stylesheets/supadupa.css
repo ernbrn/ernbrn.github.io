@@ -6686,7 +6686,7 @@ th.hide-for-touch {
 }
 
 .hi-welcome{
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
 }
 #some-things{
@@ -6735,7 +6735,8 @@ h1{
   font-size: 100px;
 }
 #button-group{
-    float: right;
+    margin-left: 540px ;
+
 }
 
 /*div.header{
